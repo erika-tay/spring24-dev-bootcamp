@@ -1,7 +1,36 @@
-/* Styles */
 body{
-  background-color: darkblue;
-  border: 2px solid black;
-  border-radius: 10px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
 }
 
+p {
+    color: black;
+    font-family: Helvetica, sans-serif; 
+    font-size: large;
+}
+
+div {
+    background-color: lightgray; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    border-right: 5px solid cyan;
+    border-bottom: 5px solid lightgreen;
+    padding: 30px 20px;ß
+}
+
+img {
+    border-radius: 50%;
+    border: 10px solid palevioletred;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 15%;
+}
